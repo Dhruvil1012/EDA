@@ -1,5 +1,3 @@
-To create a proper GitHub README file for this project, follow this format:
-
 Data Description Script
 
 This project provides a Python class called info_data that allows users to load and display descriptive statistics for a dataset. The script is designed to work with CSV files and utilizes the popular pandas and numpy libraries.
